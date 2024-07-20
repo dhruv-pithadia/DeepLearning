@@ -36,3 +36,7 @@ Contributions to this repository are welcome. If you have any improvements or ad
 	3.	Commit Changes: Commit your changes with descriptive messages.
 	4.	Push to GitHub: Push your changes to your forked repository.
 	5.	Open a Pull Request: Open a pull request to merge your changes into the main repository.
+
+ ### 3. Contact
+
+For any questions or feedback, please reach out to me at pithadia.dhruv@gmail.com.
