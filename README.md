@@ -2,6 +2,8 @@
 # Name: Dhruv Pithadia
 # Program: MBA Tech A.I.
 # Course: Deep Learning
+# Semester: V
+# Academic Year: 2024 - 2025
 
 
 Welcome to the **Deep Learning Lab Practicals** repository. This repository is dedicated to showcasing the various lab practicals and projects completed as part of the deep learning course in my college. It serves as a comprehensive portfolio of practical exercises, experiments, and implementations related to deep learning concepts and techniques.
