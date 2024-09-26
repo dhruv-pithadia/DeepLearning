@@ -1,0 +1,19 @@
+{"time":"2024-09-26T12:23:11.456216+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:23:11.456234+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_122311-7si5nbm2/logs/debug-core.log"}
+{"time":"2024-09-26T12:23:11.456288+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:23:11.456296+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_122311-7si5nbm2/logs/debug-core.log"}
+{"time":"2024-09-26T12:23:11.460384+05:30","level":"INFO","msg":"created new stream","id":"7si5nbm2"}
+{"time":"2024-09-26T12:23:11.460406+05:30","level":"INFO","msg":"stream: started","id":"7si5nbm2"}
+{"time":"2024-09-26T12:23:11.460433+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:23:11.460433+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:23:11.460422+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:23:41.476614+05:30","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-26T12:23:44.316019+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T12:23:44.318618+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T12:24:00.836166+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-26T12:24:00.836248+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-26T12:24:33.152796+05:30","level":"INFO","msg":"stream: closing","id":"7si5nbm2"}
+{"time":"2024-09-26T12:24:33.152842+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:24:33.152878+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:24:33.152871+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7si5nbm2"}}
+{"time":"2024-09-26T12:24:33.153056+05:30","level":"INFO","msg":"stream: closed","id":"7si5nbm2"}

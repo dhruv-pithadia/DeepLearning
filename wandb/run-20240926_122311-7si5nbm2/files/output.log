@@ -1,0 +1,16 @@
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz
+[1m11490434/11490434[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 0us/step
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/keras/src/layers/reshaping/flatten.py:37: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+Epoch 1/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 13ms/step - accuracy: 0.1481 - loss: 2.3391 - val_accuracy: 0.5660 - val_loss: 1.8897
+Epoch 2/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m6s[0m 121ms/step - accuracy: 0.3988 - loss: 1.8830 - val_accuracy: 0.6880 - val_loss: 1.5498
+Epoch 3/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 11ms/step - accuracy: 0.5746 - loss: 1.5631 - val_accuracy: 0.7500 - val_loss: 1.2995
+Epoch 4/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 79ms/step - accuracy: 0.6427 - loss: 1.3430 - val_accuracy: 0.7800 - val_loss: 1.1173
+Epoch 5/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 11ms/step - accuracy: 0.6910 - loss: 1.1801 - val_accuracy: 0.7920 - val_loss: 0.9842
+Epoch 6/6
+[1m47/47[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 34ms/step - accuracy: 0.7193 - loss: 1.0618 - val_accuracy: 0.8080 - val_loss: 0.8846
