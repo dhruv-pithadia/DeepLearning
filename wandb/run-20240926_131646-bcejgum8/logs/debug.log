@@ -1,0 +1,310 @@
+2024-09-26 13:16:46,330 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:16:46,330 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:16:46,330 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/logs/debug.log
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/logs/debug-internal.log
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:16:46,331 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:16:46,333 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:16:46,333 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:16:46,335 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:16:46,335 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:16:46,365 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:16:47,808 INFO    MainThread:3576 [wandb_init.py:init():857] starting run threads in backend
+2024-09-26 13:17:18,103 INFO    MainThread:3576 [wandb_run.py:_console_start():2459] atexit reg
+2024-09-26 13:17:18,103 INFO    MainThread:3576 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-09-26 13:17:18,104 INFO    MainThread:3576 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-09-26 13:17:18,104 INFO    MainThread:3576 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-09-26 13:17:18,104 INFO    MainThread:3576 [wandb_init.py:init():900] run started, returning control to user process
+2024-09-26 13:17:18,278 WARNING MsgRouterThr:3576 [router.py:message_loop():77] message_loop has been closed
+2024-09-26 13:21:45,288 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132145-hvkn0q7d/logs/debug.log
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132145-hvkn0q7d/logs/debug-internal.log
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:21:45,289 INFO    MainThread:3576 [wandb_init.py:init():641] re-initializing run, found existing run on stack: bcejgum8
+2024-09-26 13:21:45,290 INFO    MainThread:3576 [wandb_run.py:_finish():2158] finishing run eclipsetheassistant-svkm-s-narsee-monjee-institute-of-ma/Simple_CNN_Flowers/bcejgum8
+2024-09-26 13:21:45,290 INFO    MainThread:3576 [wandb_run.py:_atexit_cleanup():2422] got exitcode: 0
+2024-09-26 13:21:45,290 INFO    MainThread:3576 [wandb_run.py:_restore():2404] restore
+2024-09-26 13:21:45,291 INFO    MainThread:3576 [wandb_run.py:_restore():2410] restore done
+2024-09-26 13:21:51,671 WARNING MsgRouterThr:3576 [router.py:message_loop():77] message_loop has been closed
+2024-09-26 13:22:46,546 WARNING MainThread:3576 [wandb_init.py:init():1245] interrupted
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 651, in init
+    latest_run.finish()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 452, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 393, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2151, in finish
+    return self._finish(exit_code, quiet)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2185, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2434, in _atexit_cleanup
+    self._on_finish()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2687, in _on_finish
+    result = internal_messages_handle.wait(timeout=-1)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 655, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-09-26 13:22:50,395 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:22:50,400 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132250-pr00pp6i/logs/debug.log
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132250-pr00pp6i/logs/debug-internal.log
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:22:50,403 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:22:50,404 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:22:50,404 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:22:50,404 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:22:50,406 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:22:50,406 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:22:50,434 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:22:50,958 WARNING MsgRouterThr:3576 [router.py:message_loop():77] message_loop has been closed
+2024-09-26 13:24:20,794 ERROR   MainThread:3576 [wandb_init.py:init():832] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:24:20,798 ERROR   MainThread:3576 [wandb_init.py:init():1251] error in wandb.init()
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 838, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:29:45,265 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:29:45,272 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:29:45,276 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:29:45,276 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132945-noydas43/logs/debug.log
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_132945-noydas43/logs/debug-internal.log
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:29:45,277 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:29:45,278 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:29:45,279 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:29:45,281 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:29:45,281 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:29:45,313 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:31:15,678 ERROR   MainThread:3576 [wandb_init.py:init():832] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:31:15,682 ERROR   MainThread:3576 [wandb_init.py:init():1251] error in wandb.init()
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 838, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:32:31,042 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:32:31,050 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:32:31,053 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133231-7ph5ufwb/logs/debug.log
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133231-7ph5ufwb/logs/debug-internal.log
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:32:31,054 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:32:31,055 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:32:31,055 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:32:31,056 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:32:31,056 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:32:31,058 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:32:31,058 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:32:31,090 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:34:01,438 ERROR   MainThread:3576 [wandb_init.py:init():832] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:34:01,442 ERROR   MainThread:3576 [wandb_init.py:init():1251] error in wandb.init()
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 838, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:36:28,741 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:36:28,747 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:36:28,752 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133628-ue3cnww9/logs/debug.log
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133628-ue3cnww9/logs/debug-internal.log
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:36:28,753 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:36:28,754 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:36:28,754 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:36:28,756 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:36:28,757 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:36:28,784 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:37:59,145 ERROR   MainThread:3576 [wandb_init.py:init():832] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:37:59,146 ERROR   MainThread:3576 [wandb_init.py:init():1251] error in wandb.init()
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 838, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-26 13:38:30,747 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:38:30,749 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:38:30,751 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133830-fxnrr2od/logs/debug.log
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133830-fxnrr2od/logs/debug-internal.log
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:38:30,752 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:38:30,753 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:38:30,754 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:38:30,776 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:38:38,107 WARNING MainThread:3576 [wandb_init.py:init():1245] interrupted
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 809, in init
+    result = run_init_handle.wait(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 655, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-09-26 13:38:56,758 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:38:56,763 INFO    MainThread:3576 [wandb_settings.py:_apply_login():1968] Applying login settings: {}
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Configure stats pid to 3576
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/.config/wandb/settings
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/settings
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:38:56,766 INFO    MainThread:3576 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:_log_setup():532] Logging user logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133856-y55pv6iy/logs/debug.log
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:_log_setup():533] Logging internal logs to /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133856-y55pv6iy/logs/debug-internal.log
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:init():616] calling init triggers
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:init():666] starting backend
+2024-09-26 13:38:56,767 INFO    MainThread:3576 [wandb_init.py:init():670] setting up manager
+2024-09-26 13:38:56,768 INFO    MainThread:3576 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-09-26 13:38:56,768 INFO    MainThread:3576 [wandb_init.py:init():678] backend started and connected
+2024-09-26 13:38:56,770 INFO    MainThread:3576 [wandb_run.py:_label_probe_notebook():1340] probe notebook
+2024-09-26 13:38:56,770 INFO    MainThread:3576 [wandb_init.py:init():773] updated telemetry
+2024-09-26 13:38:56,796 INFO    MainThread:3576 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-26 13:39:35,924 WARNING MainThread:3576 [wandb_init.py:init():1245] interrupted
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 1241, in init
+    return wi.init()
+           ^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/wandb_init.py", line 809, in init
+    result = run_init_handle.wait(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 655, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

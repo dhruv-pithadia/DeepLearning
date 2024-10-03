@@ -1,0 +1,21 @@
+Found 6552 images belonging to 1 classes.
+Found 1637 images belonging to 1 classes.
+Epoch 1/5
+205/205 [==============================] - ETA: 0s - loss: 42489200.0000 - accuracy: 0.0143INFO:tensorflow:Assets written to: /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/files/model-best/assets
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/tf_keras/src/engine/training.py:3098: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native TF-Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/files/model-best/assets
+[34m[1mwandb[0m: Adding directory to artifact (/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/files/model-best)... Done. 0.0s
+205/205 [==============================] - 17s 81ms/step - loss: 42489200.0000 - accuracy: 0.0143 - val_loss: 184594272.0000 - val_accuracy: 0.0000e+00
+Epoch 2/5
+205/205 [==============================] - 14s 69ms/step - loss: 705725248.0000 - accuracy: 0.0353 - val_loss: 1413394944.0000 - val_accuracy: 0.0000e+00
+Epoch 3/5
+205/205 [==============================] - 15s 75ms/step - loss: 2700433664.0000 - accuracy: 0.0287 - val_loss: 4105796352.0000 - val_accuracy: 0.0000e+00
+Epoch 4/5
+205/205 [==============================] - 14s 69ms/step - loss: 6093465088.0000 - accuracy: 0.0179 - val_loss: 7882355200.0000 - val_accuracy: 0.0000e+00
+Epoch 5/5
+205/205 [==============================] - 14s 70ms/step - loss: 10345151488.0000 - accuracy: 0.0188 - val_loss: 12305316864.0000 - val_accuracy: 1.0000
+52/52 [==============================] - 3s 54ms/step - loss: 12305315840.0000 - accuracy: 1.0000
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/tf_keras/src/engine/training.py:3098: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native TF-Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

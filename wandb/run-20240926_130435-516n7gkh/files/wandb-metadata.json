@@ -1,0 +1,36 @@
+{
+  "os": "macOS-15.0-arm64-arm-64bit",
+  "python": "3.12.2",
+  "startedAt": "2024-09-26T07:34:35.567942Z",
+  "program": "/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/DL_LAB8_R013.ipynb",
+  "git": {
+    "remote": "https://github.com/dhruv-pithadia/DeepLearning.git",
+    "commit": "4e13f0e67e093822e082de6b0aa0cf70b119f29c"
+  },
+  "email": "eclipsetheassistant@gmail.com",
+  "root": "/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning",
+  "host": "Dhruvs-MacBookPro.local",
+  "username": "dhruvpithadia",
+  "executable": "/usr/local/bin/python3",
+  "codePathLocal": "DL_LAB8_R013.ipynb",
+  "cpu_count": 11,
+  "cpu_count_logical": 11,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "302142550016"
+    }
+  },
+  "memory": {
+    "total": "19327352832"
+  },
+  "cpu": {
+    "count": 11,
+    "countLogical": 11
+  },
+  "gpuapple": {
+    "gpuType": "Apple M3 Pro",
+    "vendor": "sppci_vendor_Apple",
+    "cores": 14
+  }
+}

@@ -1,0 +1,13 @@
+{"time":"2024-09-26T12:41:27.663023+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:41:27.663047+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_124127-ncsr4rdi/logs/debug-core.log"}
+{"time":"2024-09-26T12:41:27.663106+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:41:27.663111+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_124127-ncsr4rdi/logs/debug-core.log"}
+{"time":"2024-09-26T12:41:27.667656+05:30","level":"INFO","msg":"created new stream","id":"ncsr4rdi"}
+{"time":"2024-09-26T12:41:27.667733+05:30","level":"INFO","msg":"stream: started","id":"ncsr4rdi"}
+{"time":"2024-09-26T12:41:27.667734+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ncsr4rdi"}}
+{"time":"2024-09-26T12:41:27.667774+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ncsr4rdi"}}
+{"time":"2024-09-26T12:41:27.667803+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ncsr4rdi"}}
+{"time":"2024-09-26T12:41:28.189452+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T12:41:28.191632+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T12:41:28.471174+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-26T12:41:58.348442+05:30","level":"INFO","msg":"Resuming system monitor"}

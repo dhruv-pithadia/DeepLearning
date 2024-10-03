@@ -1,0 +1,15 @@
+{"time":"2024-09-26T13:16:46.333793+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:16:46.333826+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/logs/debug-core.log"}
+{"time":"2024-09-26T13:16:46.333899+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:16:46.333936+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131646-bcejgum8/logs/debug-core.log"}
+{"time":"2024-09-26T13:16:46.337702+05:30","level":"INFO","msg":"created new stream","id":"bcejgum8"}
+{"time":"2024-09-26T13:16:46.337734+05:30","level":"INFO","msg":"stream: started","id":"bcejgum8"}
+{"time":"2024-09-26T13:16:46.337739+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bcejgum8"}}
+{"time":"2024-09-26T13:16:46.337766+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"bcejgum8"}}
+{"time":"2024-09-26T13:16:46.337767+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"bcejgum8"}}
+{"time":"2024-09-26T13:16:47.809871+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T13:16:47.810253+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T13:20:49.369496+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/eclipsetheassistant-svkm-s-narsee-monjee-institute-of-ma/Simple_CNN_Flowers/bcejgum8/file_stream"}
+{"time":"2024-09-26T13:20:49.370351+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/eclipsetheassistant-svkm-s-narsee-monjee-institute-of-ma/Simple_CNN_Flowers/bcejgum8/file_stream: {\"error\":\"project eclipsetheassistant-svkm-s-narsee-monjee-institute-of-ma/Simple_CNN_Flowers not found while streaming file\"}"}
+{"time":"2024-09-26T13:21:45.291192+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-26T13:21:45.291261+05:30","level":"INFO","msg":"Stopped system monitor"}

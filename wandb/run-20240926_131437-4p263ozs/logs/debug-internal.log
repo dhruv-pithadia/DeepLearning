@@ -1,0 +1,9 @@
+{"time":"2024-09-26T13:14:37.44994+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:14:37.449971+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131437-4p263ozs/logs/debug-core.log"}
+{"time":"2024-09-26T13:14:37.450065+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:14:37.450072+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_131437-4p263ozs/logs/debug-core.log"}
+{"time":"2024-09-26T13:14:37.455793+05:30","level":"INFO","msg":"created new stream","id":"4p263ozs"}
+{"time":"2024-09-26T13:14:37.455828+05:30","level":"INFO","msg":"stream: started","id":"4p263ozs"}
+{"time":"2024-09-26T13:14:37.45583+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"4p263ozs"}}
+{"time":"2024-09-26T13:14:37.455844+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"4p263ozs"}}
+{"time":"2024-09-26T13:14:37.455859+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"4p263ozs"}}

@@ -1,0 +1,9 @@
+{"time":"2024-09-26T13:38:30.752986+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:38:30.753009+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133830-fxnrr2od/logs/debug-core.log"}
+{"time":"2024-09-26T13:38:30.75307+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T13:38:30.753075+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_133830-fxnrr2od/logs/debug-core.log"}
+{"time":"2024-09-26T13:38:30.755753+05:30","level":"INFO","msg":"created new stream","id":"fxnrr2od"}
+{"time":"2024-09-26T13:38:30.755791+05:30","level":"INFO","msg":"stream: started","id":"fxnrr2od"}
+{"time":"2024-09-26T13:38:30.755816+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"fxnrr2od"}}
+{"time":"2024-09-26T13:38:30.75581+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fxnrr2od"}}
+{"time":"2024-09-26T13:38:30.755834+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"fxnrr2od"}}

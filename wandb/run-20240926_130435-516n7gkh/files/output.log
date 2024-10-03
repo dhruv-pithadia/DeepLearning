@@ -1,0 +1,31 @@
+Found 6552 images belonging to 1 classes.
+Found 1637 images belonging to 1 classes.
+[34m[1mwandb[0m: [33mWARNING[0m WandbCallback is deprecated and will be removed in a future release. Please use the WandbMetricsLogger, WandbModelCheckpoint, and WandbEvalCallback callbacks instead. See https://docs.wandb.ai/guides/integrations/keras for more information.
+[34m[1mwandb[0m: [33mWARNING[0m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/10
+205/205 [==============================] - ETA: 0s - loss: 15185320960.0000 - accuracy: 0.0098INFO:tensorflow:Assets written to: /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_130435-516n7gkh/files/model-best/assets
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/tf_keras/src/engine/training.py:3098: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native TF-Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+INFO:tensorflow:Assets written to: /Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_130435-516n7gkh/files/model-best/assets
+[34m[1mwandb[0m: Adding directory to artifact (/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_130435-516n7gkh/files/model-best)... Done. 0.1s
+205/205 [==============================] - 24s 119ms/step - loss: 15185320960.0000 - accuracy: 0.0098 - val_loss: 82165882880.0000 - val_accuracy: 0.0000e+00
+Epoch 2/10
+205/205 [==============================] - 23s 110ms/step - loss: 551059128320.0000 - accuracy: 0.0244 - val_loss: 1329914970112.0000 - val_accuracy: 0.0000e+00
+Epoch 3/10
+205/205 [==============================] - 24s 118ms/step - loss: 3152521461760.0000 - accuracy: 0.0191 - val_loss: 5499297202176.0000 - val_accuracy: 0.0000e+00
+Epoch 4/10
+205/205 [==============================] - 24s 114ms/step - loss: 9136718741504.0000 - accuracy: 0.0119 - val_loss: 13054201823232.0000 - val_accuracy: 0.0000e+00
+Epoch 5/10
+205/205 [==============================] - 24s 119ms/step - loss: 19438495596544.0000 - accuracy: 0.0098 - val_loss: 26424773705728.0000 - val_accuracy: 0.0000e+00
+Epoch 6/10
+205/205 [==============================] - 24s 116ms/step - loss: 35013200445440.0000 - accuracy: 0.0142 - val_loss: 43496069136384.0000 - val_accuracy: 0.0000e+00
+Epoch 7/10
+205/205 [==============================] - 23s 111ms/step - loss: 56633879166976.0000 - accuracy: 0.0098 - val_loss: 68146899714048.0000 - val_accuracy: 0.0000e+00
+Epoch 8/10
+205/205 [==============================] - 24s 116ms/step - loss: 86142305173504.0000 - accuracy: 0.0098 - val_loss: 102677266563072.0000 - val_accuracy: 0.0000e+00
+Epoch 9/10
+205/205 [==============================] - 23s 114ms/step - loss: 121298273435648.0000 - accuracy: 0.0147 - val_loss: 128129687355392.0000 - val_accuracy: 0.0000e+00
+Epoch 10/10
+205/205 [==============================] - 22s 109ms/step - loss: 167092984741888.0000 - accuracy: 0.0098 - val_loss: 183945748545536.0000 - val_accuracy: 0.0000e+00
+52/52 [==============================] - 3s 59ms/step - loss: 183945731768320.0000 - accuracy: 0.0000e+00
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

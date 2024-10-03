@@ -1,0 +1,18 @@
+{"time":"2024-09-26T12:50:35.67569+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:50:35.675768+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_125035-mxsrfloa/logs/debug-core.log"}
+{"time":"2024-09-26T12:50:35.675874+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:50:35.675884+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_125035-mxsrfloa/logs/debug-core.log"}
+{"time":"2024-09-26T12:50:35.680857+05:30","level":"INFO","msg":"created new stream","id":"mxsrfloa"}
+{"time":"2024-09-26T12:50:35.680899+05:30","level":"INFO","msg":"stream: started","id":"mxsrfloa"}
+{"time":"2024-09-26T12:50:35.680921+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:35.680947+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:35.680912+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:36.226852+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T12:50:36.228925+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T12:50:39.767535+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-26T12:50:39.767576+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-26T12:50:46.647396+05:30","level":"INFO","msg":"stream: closing","id":"mxsrfloa"}
+{"time":"2024-09-26T12:50:46.64742+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:46.647445+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:46.647444+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mxsrfloa"}}
+{"time":"2024-09-26T12:50:46.647626+05:30","level":"INFO","msg":"stream: closed","id":"mxsrfloa"}

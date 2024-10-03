@@ -1,0 +1,12 @@
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/keras/src/layers/reshaping/flatten.py:37: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+Epoch 1/5
+[1m1875/1875[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 724us/step - accuracy: 0.7784 - loss: 0.6288 - val_accuracy: 0.8336 - val_loss: 0.4691
+Epoch 2/5
+[1m1875/1875[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 600us/step - accuracy: 0.8627 - loss: 0.3856 - val_accuracy: 0.8607 - val_loss: 0.3982
+Epoch 3/5
+[1m1875/1875[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 557us/step - accuracy: 0.8802 - loss: 0.3297 - val_accuracy: 0.8646 - val_loss: 0.3753
+Epoch 4/5
+[1m1875/1875[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 622us/step - accuracy: 0.8854 - loss: 0.3127 - val_accuracy: 0.8616 - val_loss: 0.3866
+Epoch 5/5
+[1m1875/1875[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 638us/step - accuracy: 0.8901 - loss: 0.2932 - val_accuracy: 0.8764 - val_loss: 0.3333

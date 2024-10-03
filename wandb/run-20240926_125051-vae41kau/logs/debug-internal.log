@@ -1,0 +1,18 @@
+{"time":"2024-09-26T12:50:51.819841+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:50:51.819946+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_125051-vae41kau/logs/debug-core.log"}
+{"time":"2024-09-26T12:50:51.820113+05:30","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-26T12:50:51.820122+05:30","level":"INFO","msg":"created symlink","path":"/Users/dhruvpithadia/Desktop/NMIMS/SEM5/Deep_Learning/wandb/run-20240926_125051-vae41kau/logs/debug-core.log"}
+{"time":"2024-09-26T12:50:51.825956+05:30","level":"INFO","msg":"created new stream","id":"vae41kau"}
+{"time":"2024-09-26T12:50:51.826009+05:30","level":"INFO","msg":"stream: started","id":"vae41kau"}
+{"time":"2024-09-26T12:50:51.826024+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:51.826054+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:51.826043+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:52.476062+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-26T12:50:52.477542+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-26T12:50:56.848447+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-26T12:50:56.848483+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-26T12:50:59.71384+05:30","level":"INFO","msg":"stream: closing","id":"vae41kau"}
+{"time":"2024-09-26T12:50:59.713854+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:59.713872+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:59.713878+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vae41kau"}}
+{"time":"2024-09-26T12:50:59.713945+05:30","level":"INFO","msg":"stream: closed","id":"vae41kau"}
